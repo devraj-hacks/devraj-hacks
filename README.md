@@ -1,6 +1,7 @@
 # Hi there! 👋 I'm Devraj
 
-Welcome to my GitHub! I'm a dedicated Backend Developer with a strong focus on crafting robust and scalable solutions. My core expertise lies in Ruby on Rails, Java, Spring Boot, and AWS, making me a reliable architect of backend infrastructure that powers cutting-edge applications.
+Welcome to my GitHub! I'm a dedicated **Backend Developer** with a strong focus on crafting robust and scalable solutions. My core expertise lies in **Ruby on Rails**, **Java**, **Spring Boot**, and **AWS**, making me a reliable architect of backend infrastructure that powers cutting-edge applications.
+
 
 ### My Passion
 I'm passionate about backend development and committed to building the foundations for technological innovation. Let’s shape the future of technology together!
