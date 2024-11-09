@@ -9,7 +9,7 @@ I'm passionate about backend development and committed to building the foundatio
 ### Get in Touch
 - [LinkedIn](https://www.linkedin.com/in/devarajub/)  
 - [Medium](https://medium.com/@devarajuboddu06/about)  
-- [Twitter](https://twitter.com/devraj-hacks)
+- [Twitter(X)](https://x.com/ThisIsDevraj)
 
 I'm always excited to collaborate on innovative projects or discuss new ideas. Let's connect!
 
