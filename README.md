@@ -1,30 +1,45 @@
-# Hi there! 👋 I'm Devraj
+# 👋 I'm Devaraju
 
-Welcome to my GitHub! I'm a dedicated **Backend Developer** with a strong focus on crafting robust and scalable solutions. My core expertise lies in **Ruby on Rails**, **Java**, **Spring Boot**, and **AWS**, making me a reliable architect of backend infrastructure that powers cutting-edge applications.
+I'm a **dedicated Backend Developer** with a strong focus on crafting **robust and scalable solutions**. My core expertise lies in **Ruby on Rails**, **Java**, **Spring Boot**, and **AWS**, making me a reliable architect of backend infrastructure that powers cutting-edge applications.
 
+---
 
-### My Passion
-I'm passionate about backend development and committed to building the foundations for technological innovation. Let’s shape the future of technology together!
+## 🚀 About Me
 
-### Get in Touch
-- [LinkedIn](https://www.linkedin.com/in/devarajub/)  
-- [Medium](https://medium.com/@devarajuboddu06/about)  
-- [Twitter(X)](https://x.com/ThisIsDevraj)
+- 🔧 Backend Engineering Enthusiast  
+- 💻 Skilled in building secure and scalable microservices  
+- ☁️ Cloud-native thinker with deep AWS experience  
+- 🛠️ Clean code, system design, and performance optimization matter to me  
+- 👨‍💻 Currently building backend systems that scale at Enphase  
 
-I'm always excited to collaborate on innovative projects or discuss new ideas. Let's connect!
+---
 
+## 💡 My Passion
 
-<!--
-**devraj-hacks/devraj-hacks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m passionate about backend development and **committed to building the foundations for technological innovation**. Whether it's designing APIs, optimizing databases, or deploying resilient systems, I love solving real-world problems through tech.
 
-Here are some ideas to get you started:
+Let’s shape the future of technology together!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌐 Get in Touch
+
+- [💼 LinkedIn](https://www.linkedin.com/in/devarajub)  
+- [✍️ Medium](https://medium.com/@devraj_boddu)  
+- [🐦 Twitter / X](https://twitter.com/devraj_boddu)
+
+---
+
+## 📊 GitHub Stats *(Optional)*
+
+<details>
+  <summary>Click to expand</summary>
+
+  ![Devraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=devrajboddu&show_icons=true&theme=github_dark&hide_title=true)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devrajboddu&layout=compact&theme=github_dark)
+
+</details>
+
+---
+
+_Thanks for stopping by! Feel free to explore my repositories and connect!_
